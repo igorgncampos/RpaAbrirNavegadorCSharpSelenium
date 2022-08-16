@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5xInGKeGYerJrrLSPE2s9Jkrl68Iu1rz4S3zf8dqE/xUmibEmLwktMyUGaKtW3wUv9laoEh+Mx0JCmIdbSpqbg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\AbrirNavegador\\AbrirNavegador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\igorc\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
