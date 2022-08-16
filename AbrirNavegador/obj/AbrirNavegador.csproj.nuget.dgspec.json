@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio\\AbrirNavegador\\AbrirNavegador.csproj": {}
+    "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio\\AbrirNavegador\\AbrirNavegador.csproj": {
+    "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\AbrirNavegador\\AbrirNavegador.csproj",
+        "projectUniqueName": "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj",
         "projectName": "AbrirNavegador",
-        "projectPath": "D:\\Visual Studio\\AbrirNavegador\\AbrirNavegador.csproj",
+        "projectPath": "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj",
         "packagesPath": "C:\\Users\\igorc\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\AbrirNavegador\\obj\\",
+        "outputPath": "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igorc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,7 +16,7 @@ namespace AbrirNavegador
         {
             ChromeOptions opt = new ChromeOptions();
 
-            opt.AddExcludedArgument("enable-automation");
+            //opt.AddExcludedArgument("enable-automation");
             //opt.AddAdditionalOption("useAutomationExtension", false);
             opt.AcceptInsecureCertificates = true;
             opt.AddArgument("--start-maximized");
@@ -43,6 +43,7 @@ namespace AbrirNavegador
             driver.FindElement(By.Name("q")).Clear();
             driver.FindElement(By.Name("q")).SendKeys("pokemon");
             driver.FindElement(By.Name("q")).SendKeys(Keys.Enter);
+            driver.Close();
         }
     }
 

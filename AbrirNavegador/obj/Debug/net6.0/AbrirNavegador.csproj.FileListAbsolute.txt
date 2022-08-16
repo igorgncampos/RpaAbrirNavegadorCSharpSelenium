@@ -16,3 +16,21 @@ D:\Visual Studio\AbrirNavegador\obj\Debug\net6.0\refint\AbrirNavegador.dll
 D:\Visual Studio\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.pdb
 D:\Visual Studio\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.genruntimeconfig.cache
 D:\Visual Studio\AbrirNavegador\obj\Debug\net6.0\ref\AbrirNavegador.dll
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\bin\Debug\net6.0\AbrirNavegador.exe
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\bin\Debug\net6.0\AbrirNavegador.deps.json
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\bin\Debug\net6.0\AbrirNavegador.runtimeconfig.json
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\bin\Debug\net6.0\AbrirNavegador.dll
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\bin\Debug\net6.0\AbrirNavegador.pdb
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\bin\Debug\net6.0\WebDriver.dll
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.csproj.AssemblyReference.cache
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.AssemblyInfoInputs.cache
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.AssemblyInfo.cs
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.csproj.CoreCompileInputs.cache
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.csproj.CopyComplete
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.dll
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\refint\AbrirNavegador.dll
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.pdb
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\AbrirNavegador.genruntimeconfig.cache
+C:\Users\igorc\Documents\GitHub\ProjetoCursoGiteGithub\AbrirNavegador\obj\Debug\net6.0\ref\AbrirNavegador.dll
