@@ -16,9 +16,9 @@ namespace AbrirNavegador
         {
             ChromeOptions opt = new ChromeOptions();
 
-            //opt.AddExcludedArgument("enable-automation");
-            //opt.AddAdditionalOption("useAutomationExtension", false);
-            opt.AcceptInsecureCertificates = true;
+      opt.AddExcludedArgument("enable-automation");
+      //opt.AddAdditionalOption("useAutomationExtension", false);
+      opt.AcceptInsecureCertificates = true;
             opt.AddArgument("--start-maximized");
             opt.AddArgument("--aways-authorize-plugins");
             opt.AddArgument("--disable-notifications");

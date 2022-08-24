@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj": {}
+    "C:\\Users\\igorc\\source\\repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj": {
+    "C:\\Users\\igorc\\source\\repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj",
+        "projectUniqueName": "C:\\Users\\igorc\\source\\repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
         "projectName": "AbrirNavegador",
-        "projectPath": "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\AbrirNavegador.csproj",
+        "projectPath": "C:\\Users\\igorc\\source\\repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
         "packagesPath": "C:\\Users\\igorc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\igorc\\Documents\\GitHub\\ProjetoCursoGiteGithub\\AbrirNavegador\\obj\\",
+        "outputPath": "C:\\Users\\igorc\\source\\repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igorc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

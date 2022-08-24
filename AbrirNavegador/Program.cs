@@ -14,7 +14,8 @@ namespace AbrirNavegador
             BrowserDriver browser = new BrowserDriver();
             //ChromeOptions opt = new ChromeOptions();
             browser.TarefaNavegador();
-
+      CreateFile createFile = new CreateFile();
+      createFile.CreateFileOrFolder();
         }
     }
 }
