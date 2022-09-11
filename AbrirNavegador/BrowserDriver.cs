@@ -1,9 +1,11 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace AbrirNavegador
@@ -36,14 +38,16 @@ namespace AbrirNavegador
         }
 
         public void TarefaNavegador()
-        {
-            driver.Navigate().GoToUrl("https://www.google.com/");
-            driver.FindElement(By.Name("q")).Click();
-           
-            driver.FindElement(By.Name("q")).Clear();
-            driver.FindElement(By.Name("q")).SendKeys("pokemon");
-            driver.FindElement(By.Name("q")).SendKeys(Keys.Enter);
-            driver.Close();
+        { 
+        driver.Navigate().GoToUrl("https://www.google.com/");
+        driver.FindElement(By.Name("q")).Click();
+        driver.FindElement(By.Name("q")).Clear();
+
+       
+      Thread.Sleep(200000);
+      driver.FindElement(By.Name("q")).SendKeys("pokemon"); 
+        driver.FindElement(By.Name("q")).SendKeys(Keys.Enter); 
+        driver.Close();
         }
     }
 
