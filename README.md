@@ -1,3 +1,1 @@
-# ProjetoCursoGiteGithub
- projeto elaborado durante curso Polimorfismo
-teste edicao
+projeto elaborado para fins de estudos.
