@@ -92,11 +92,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igorc\\Source\\Repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
+      "projectUniqueName": "C:\\Users\\igorc\\Documents\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
       "projectName": "AbrirNavegador",
-      "projectPath": "C:\\Users\\igorc\\Source\\Repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
+      "projectPath": "C:\\Users\\igorc\\Documents\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
       "packagesPath": "C:\\Users\\igorc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igorc\\Source\\Repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\obj\\",
+      "outputPath": "C:\\Users\\igorc\\Documents\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igorc\\AppData\\Roaming\\NuGet\\NuGet.Config",

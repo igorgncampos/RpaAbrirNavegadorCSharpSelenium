@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Kb8lptopioav9IcNez/IsGiq1MQ8XXg0X+ssP8TvLHkXD45/+eSbxnrpkxQTItnOs0s/0/y6Vl/G1W81L9RZQ==",
+  "dgSpecHash": "UJNm91M+x9YEJRTs202f8dmITpXoikyF9LFez+QRO/2YWZGGTpiDpzgul+8hmc3p1F0CtQ6jQUMa4wGMgOXzJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\igorc\\source\\repos\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
+  "projectFilePath": "C:\\Users\\igorc\\Documents\\RpaAbrirNavegadorCSharpSelenium\\AbrirNavegador\\AbrirNavegador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igorc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\igorc\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512"
