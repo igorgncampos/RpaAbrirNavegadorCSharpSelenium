@@ -43,7 +43,6 @@ namespace AbrirNavegador
         driver.FindElement(By.Name("q")).Click();
         driver.FindElement(By.Name("q")).Clear();
 
-      Thread.Sleep(2000);
       driver.FindElement(By.Name("q")).SendKeys("pokemon"); 
         driver.FindElement(By.Name("q")).SendKeys(Keys.Enter); 
         driver.Close();
