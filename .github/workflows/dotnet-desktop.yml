@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Create Branch
         id: create_branch
-        uses: igorgncampos/create-branch-from-tag@v1
+        uses: igorgncampos/Prod@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
         with:
