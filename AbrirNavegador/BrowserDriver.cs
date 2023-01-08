@@ -45,6 +45,7 @@ namespace AbrirNavegador
 
       driver.FindElement(By.Name("q")).SendKeys("pokemon"); 
         driver.FindElement(By.Name("q")).SendKeys(Keys.Enter); 
+            Thread.Sleep(1000);
         driver.Close();
         }
     }
